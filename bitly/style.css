@@ -1,0 +1,10 @@
+#img-container {
+  background-image: url("rocket.png");
+  background-size: cover;
+  width: 100%;
+  height: 500px;
+}
+#main {
+  margin-left: 0px;
+  margin-right: 0px;
+}
